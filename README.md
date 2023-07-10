@@ -10,7 +10,7 @@
 <h2>Shell</h2>
 <h2>C</h2>
 
-  <a href="https://ibb.co/b7Gzwxw"><img src="https://i.ibb.co/x3rJ9y9/IMG-20230707-WA0018.jpg" alt="IMG-20230707-WA0018" border="0"></a>
+
 </p>
 
 
